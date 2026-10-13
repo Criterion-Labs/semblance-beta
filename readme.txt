@@ -1,4 +1,4 @@
-Semblance™ Issues
+Semblance™ Beta
 =================
 
 This public repository is used only for reporting and tracking issues with
@@ -19,5 +19,3 @@ Before submitting an issue:
    file can be shared publicly.
 4. Use one issue for each distinct problem.
 
-Semblance™ application repository:
-https://github.com/Criterion-Labs/Semblance
